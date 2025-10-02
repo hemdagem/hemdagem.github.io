@@ -50,6 +50,6 @@
 - film: "Once upon a time in Hollywood"
   scene: "The Flamethrower"
   year: "2019"
-  imdb: "#"
-  img: "#"
+  imdb: "https://www.imdb.com/title/tt7131622/"
+  img: "images.jpeg"
   video: "#"
